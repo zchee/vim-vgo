@@ -28,10 +28,10 @@ syn region  vgoVersion          start=/v/ skip=/\\./ end="$"
 
 hi def link vgoTodo             Todo
 hi def link vgoComment          Comment
-hi def link vgoModule           Include
+hi def link vgoModule           Statement
 hi def link vgoVersion          Type
 hi def link vgoVersionAllow     String
-hi def link vgoRequire          Structure
+hi def link vgoRequire          Include
 hi def link vgoExclude          Repeat
 hi def link vgoReplace          Keyword
 hi def link vgoString           String
