@@ -4,4 +4,4 @@
 
 autocmd BufNewFile,BufRead go.mod setfiletype vgo
 
-" vim: softtabstop=2:shiftwidth=2:tabstop=2:expandtab
+" vim: sts=2:sw=2:ts=2:et
