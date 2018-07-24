@@ -2,7 +2,7 @@
 " Use of this source code is governed by a BSD-style
 " license that can be found in the LICENSE file.
 
-" vgo.vim: Vim syntax file for golang.org/x/vgo go.mod.
+" vim-vgo: Vim syntax file for golang.org/x/vgo go.mod and go.sum.
 
 if exists("b:current_syntax")
   finish
